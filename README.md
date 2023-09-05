@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on bot
+- 💞️ I’m looking to collaborate on create bot
 - 📫 How to reach me yasinkamali.org@gmail.com
 
 <!---
