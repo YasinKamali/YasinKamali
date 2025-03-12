@@ -27,19 +27,5 @@ I'm a passionate learner and developer, diving deep into the world of programmin
 
 ---
 
-### 📊 My GitHub Stats  
-![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YasinKamali&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinKamali&layout=compact&theme=radical)
-
----
-
-### 🏆 Featured Projects  
-- **[Skill-Python-to-GitHub](https://github.com/YasinKamali/skill-python-to-github)**  
-  A repository where I share my Python learning journey and small projects.  
-- **[Telegram Bot Project](لینک به پروژه‌ت اگه داری)**  
-  A bot I created to automate [توضیح کوتاه، مثلاً "task management"].  
-
----
-
 💡 **Looking to Collaborate?**  
 I'm always open to working on bot development, automation projects, or anything Python-related. If you have an idea or need a coding buddy, feel free to reach out via my Telegram channel or IDs!  
