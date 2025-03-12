@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yasin Kamali!  
+# 👋 Hi, I'm Yasin!  
 
 🌟 **About Me**  
 I'm a passionate learner and developer, diving deep into the world of programming. My main focus is on **Python**, and I love building bots, automation tools, and cool projects. I'm always eager to collaborate with others, learn new technologies, and contribute to open-source projects.  
