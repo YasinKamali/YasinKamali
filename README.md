@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yasin Kamali 👋</h1>
 
-<!--
-**YasinKamali/YasinKamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasinKamali&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🧑‍💻 Python Developer | AI Enthusiast | Bot Automation Expert  
+- 🤖 Working on advanced Telegram bots and automation tools  
+- 📚 Passionate about AI, Machine Learning, and solving coding challenges  
+- ☕ Love coding late at night with a cup of coffee  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinKamali&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinKamali&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🔗 Connect with Me  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Main_Yasin)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasinKamali)
